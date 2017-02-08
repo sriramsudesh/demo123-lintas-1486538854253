@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: demo123-lintas
+  host: demo123-lintas
+  disk_quota: 1024M
